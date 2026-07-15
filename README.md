@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anmol</h1>
 <h3 align="center">A passionate developer from India, karnataka</h3>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&width=600&lines=Full+Stack+%7C+AI+%7C+Python+Developer;I+love+building+cool+tech+projects+%F0%9F%9A%80" />
 </p>
